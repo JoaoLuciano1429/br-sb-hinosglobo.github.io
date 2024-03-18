@@ -28,3 +28,40 @@ h1 {
     grid-template-columns: repeat(5, 1fr);
     gap: 25px;
 }
+
+.soundBtn {
+    box-shadow: 0px 0px 1.1px rgba(0, 0, 0, 0.043),
+      0px 0px 4px rgba(0, 0, 0, 0.077), 0px 0px 9.2px rgba(0, 0, 0, 0.1),
+      0px 0px 17.5px rgba(0, 0, 0, 0.115), 0px 0px 30px rgba(0, 0, 0, 0.14),
+      0px 0px 46.8px rgba(0, 0, 0, 0.18), 0px 0px 65px rgba(0, 0, 0, 0.23);
+    width: 6.25rem;
+    height: 6.25rem;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  
+  .soundBtn > img {
+    width: 2.5rem;
+    height: auto;
+    filter: drop-shadow(0px 0px 2px #fff);
+  }
+  
+  #AMG {
+    background: linear-gradient(90deg, #32940b 0%, #000000 50%);
+    border: 1px solid #001a00;
+  }
+
+  #CFC {
+    border: 1px solid #1f5a24;
+    background: linear-gradient(180deg, #fff 0%, #005700 50%, #fff 100%);
+  }
+
+  #GOI {
+    background: linear-gradient(180deg, #004e07 0%, #003f18 50%);
+    border: 1px solid #030;
+  }
+
+  #SAN {
+    background: linear-gradient(180deg, #d4d4d4 0%, #6e6e6e 50%);
+    border: 1px solid #1f1f1f;
+  }
