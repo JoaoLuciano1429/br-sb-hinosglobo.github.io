@@ -134,3 +134,95 @@ h1 {
   );
   border: 1px solid #ccc;
 }
+
+#CRB {
+  background-color: #ffffff;
+  background-image: linear-gradient(
+    90deg,
+    #ffffff 0%,
+    #ff0000 50%,
+    #ffffff 100%
+  );
+  border: 1px solid #f00;
+}
+
+#NOV {
+  background-color: #000000;
+  background-image: linear-gradient(
+    90deg,
+    #ffe900 0%,
+    #000000 50%,
+    #ffe900 100%
+  );
+  border: 1px solid #fff;
+}
+
+#GFC {
+  background-color: #00dc5e;
+  background-image: linear-gradient(0deg, #00dc5e 0%, #15b905 100%);
+  border: 1px solid #007800;
+}
+
+#ITU {
+  background-color: #000000;
+  background-image: linear-gradient(
+    180deg,
+    #000000 0%,
+    #bb0f0f 50%,
+    #000000 100%
+  );
+  border: 1px solid #710000;
+}
+
+#MIR {
+  background-color: #fff300;
+  background-image: linear-gradient(
+    180deg,
+    #fff300 0%,
+    #14c300 50%,
+    #fff300 100%
+  );
+  border: 1px solid #fff;
+}
+
+#OPF {
+  background-color: #ffffff;
+  background-image: linear-gradient(
+    90deg,
+    #ffffff 0%,
+    #000000 25%,
+    #ffffff 50%,
+    #000000 75%,
+    #ffffff 100%
+  );
+  border: 1px solid #000;
+}
+
+#PAY {
+  background-color: #0065c4;
+  background-image: linear-gradient(90deg, #0065c4 0%, #fff 50%, #0065c4 100%);
+  border: 1px solid #0065c4;
+}
+
+#PON {
+  background-color: #fff;
+  background-image: linear-gradient(147deg, #fff 0%, #000 50%, #fff 100%);
+  border: 1px solid #fff;
+}
+
+#SPO {
+  background-color: #ff2f00;
+  background-image: linear-gradient(
+    180deg,
+    #ff2f00 0%,
+    #000000 50%,
+    #ff2f00 100%
+  );
+  border: 1px solid #ff0;
+}
+
+#VIL {
+  background-color: #ff0000;
+  background-image: linear-gradient(90deg, #ff0000 0%, #6f0000 100%);
+  border: 1px solid #600;
+}
