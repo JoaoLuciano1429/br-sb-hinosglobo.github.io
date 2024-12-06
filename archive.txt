@@ -1,0 +1,62 @@
+Promovidos à Série A p/ 2025:
+        <button class="soundBtn" id="SAN">
+            <img src="img/santos-logo-escudo-9.png" />
+            <audio src="audio/Hino do Santos - Globo SP.mp3" id="Santos"></audio>
+        </button>
+        <button class="soundBtn" id="CEA">
+        <img src="img/Ceará_Sporting_Club.png" />
+        <audio
+          src="audio/Hino do Ceará - Globo (Versão Kasan).mp3"
+          id="Ceara"
+        ></audio>
+      </button>
+      <button class="soundBtn" id="MIR">
+        <img src="img/Mirassol_FC_logo.png" />
+        <audio
+          src="audio/Hino do Mirassol - Globo (Versão Kasan).mp3"
+          id="Mirassol"
+        ></audio>
+      </button>
+      <button class="soundBtn" id="SPO">
+        <img src="img/sport-recife.png" />
+        <audio
+          src="audio/hino do Sport Recife Versão Globo original Kaike Santana.mp3"
+          id="SportRecife"
+        ></audio>
+      </button>
+
+Rebaixados à Série C p/ 2025:
+    <button class="soundBtn" id="BRU">
+        <img src="img/Brusque_FC-SC.png" />
+        <audio
+          src="audio/Hino do Brusque - Globo (Versão Kasan).mp3"
+          id="Brusque"
+        ></audio>
+    </button>
+    <button class="soundBtn" id="GFC">
+        <img src="img/Guarani_FC.png" />
+        <audio
+          src="audio/hino do Guarani versão globo original kaike Santana.mp3"
+          id="Guarani"
+        ></audio>
+    </button>
+          <button class="soundBtn" id="ITU">
+        <img src="img/Ituano_Futebol_Clube_logo.png" />
+        <audio
+          src="audio/hino do Ituano Versão Globo original Kaike Santana.mp3"
+          id="Ituano"
+        ></audio>
+    </button>
+    <button class="soundBtn" id="PON">
+        <img src="img/Ponte_Preta.png" />
+        <audio
+          src="audio/hino da Ponte Preta Versão Globo original Kaike Santana.mp3"
+          id="PontePreta"
+        ></audio>
+    </button>
+
+Promovidos da Série C à Série B p/ 2025:
+    Remo
+    Volta Redonda
+    Ferroviária
+    Athletic Club
