@@ -1,6 +1,8 @@
 # br-sb-hinosglobo.github.io
 
-# Mudanças:
+## Mudanças
+
+09/12/2024: Website atualizado para a temporada 2025;
 
 01/04/2024: Adicionada funcionalidade de um som por vez;
 

@@ -226,3 +226,69 @@ h1 {
   background-image: linear-gradient(90deg, #ff0000 0%, #6f0000 100%);
   border: 1px solid #600;
 }
+
+#CAP {
+  background: linear-gradient(147deg, #bf0e0e 0%, #000000 60%);
+  border: 1px solid #240000;
+}
+
+#CUI {
+  border: 1px solid #73d800;
+  background: linear-gradient(180deg, #004400 0%, #e1f100 100%);
+}
+
+#ACG {
+  background-color: #000;
+  background-image: linear-gradient(45deg, #000 0%, #f00 50%, #000 100%);
+  border: 1px solid #fff;
+}
+
+#CRI {
+  background-color: #ffff00;
+  background-image: linear-gradient(
+    180deg,
+    #ffff00 0%,
+    #000000 50%,
+    #ffffff 100%
+  );
+  border: 1px solid #242424;
+}
+
+#CRI > img {
+  width: 3rem;
+}
+
+#ATH {
+  background-color: #000;
+  background-image: linear-gradient(180deg, #000 0%, #fff 50%, #000 100%);
+  border: 1px solid #888;
+}
+
+#FER {
+  background-color: #520623;
+  background-image: linear-gradient(90deg, #520623 0%, #502 100%);
+  border: 1px solid #f2e0f6;
+}
+
+#FER > img {
+  width: 3rem;
+}
+
+#REM {
+  background-color: #010f2e;
+  background-image: linear-gradient(180deg, #010f2e 0%, #013 100%);
+  border: 1px solid #cdcdcd;
+}
+
+#VOL {
+  background-color: #101010;
+  background-image: linear-gradient(
+    90deg,
+    #101010 0%,
+    #ef1 25%,
+    #101010 50%,
+    #ef1 75%,
+    #101010 100%
+  );
+  border: 1px solid #050505;
+}
