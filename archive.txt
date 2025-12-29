@@ -60,3 +60,66 @@ Promovidos da Série C à Série B p/ 2025:
     Volta Redonda
     Ferroviária
     Athletic Club
+
+  Promovidos à Série A 2026:
+  Coritiba
+  Athletico Paranaense
+  Chapecoense
+  Remo
+
+  Rebaixados à Série C 2026:
+      <button class="soundBtn" id="AMA">
+        <img src="img/amazonas-fc.png" />
+        <audio src="audio/Hino do Amazonas FC Globo.mp3" id="Amazonas"></audio>
+      </button>
+      <button class="soundBtn" id="FER">
+        <img src="img/Escudo_Associação_Ferroviária_de_Esportes.png" />
+        <audio
+          src="audio/hino da Ferroviária Versão Globo original Kaike Santana.mp3"
+          id="Ferroviaria"
+        ></audio>
+      </button>
+      <button class="soundBtn" id="PAY">
+        <img src="img/paysandu.png" />
+        <audio
+          src="audio/Hino do Paysandu - Versão Globo.mp3"
+          id="Paysandu"
+        ></audio>
+      </button>   
+      <button class="soundBtn" id="VOL">
+        <img src="img/Volta_Redonda_Futebol_Clube.png" />
+        <audio
+          src="audio/hino do Volta Redonda Versão Globo original Kaike Santana.mp3"
+          id="VoltaRedonda"
+        ></audio>
+      </button>   
+
+==================================
+      <button class="soundBtn" id="CHA">
+        <img src="img/Chapecoense.png" />
+        <audio
+          src="audio/hino da Chapecoense Versão Globo original Kaike Santana.mp3"
+          id="Chapecoense"
+        ></audio>
+      </button>
+            <button class="soundBtn" id="CFC">
+        <img src="img/logo-coritiba-512.png" />
+        <audio
+          id="Coritiba"
+          src="audio/Hino do Coritiba - Globo SP.mp3"
+        ></audio>
+      </button>
+            <button class="soundBtn" id="CAP">
+        <img src="img/athletico-pr.png" />
+        <audio
+          id="AthleticoPR"
+          src="audio/Hino do Athletico - Globo SP.mp3"
+        ></audio>
+      </button>
+            <button class="soundBtn" id="REM">
+        <img src="img/Clube_do_Remo.svg.png" />
+        <audio
+          src="audio/Hino do Remo Globo (Kasan_Kaike Santana).mp3"
+          id="Remo"
+        ></audio>
+      </button>

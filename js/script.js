@@ -9,11 +9,11 @@ function stopAllSounds() {
   });
 }
 
-document.getElementById("AMA").addEventListener("click", (ev) => {
+/*document.getElementById("AMA").addEventListener("click", (ev) => {
   stopAllSounds();
   ev = document.getElementById("Amazonas");
   ev.play();
-});
+});*/
 
 document.getElementById("AMG").addEventListener("click", (ev) => {
   stopAllSounds();
@@ -38,24 +38,24 @@ document.getElementById("BRU").addEventListener("click", (ev) => {
   ev = document.getElementById("Brusque");
   ev.play();
 });
-*/ /*
+*/
 document.getElementById("CEA").addEventListener("click", (ev) => {
   stopAllSounds();
   ev = document.getElementById("Ceara");
   ev.play();
 });
-*/
-document.getElementById("CHA").addEventListener("click", (ev) => {
+
+/*document.getElementById("CHA").addEventListener("click", (ev) => {
   stopAllSounds();
   ev = document.getElementById("Chapecoense");
   ev.play();
-});
+});*/
 
-document.getElementById("CFC").addEventListener("click", (ev) => {
+/*document.getElementById("CFC").addEventListener("click", (ev) => {
   stopAllSounds();
   ev = document.getElementById("Coritiba");
   ev.play();
-});
+});*/
 
 document.getElementById("CRB").addEventListener("click", (ev) => {
   stopAllSounds();
@@ -99,41 +99,41 @@ document.getElementById("OPF").addEventListener("click", (ev) => {
   ev.play();
 });
 
-document.getElementById("PAY").addEventListener("click", (ev) => {
+/*document.getElementById("PAY").addEventListener("click", (ev) => {
   stopAllSounds();
   ev = document.getElementById("Paysandu");
   ev.play();
 });
-/*
+*/
 document.getElementById("PON").addEventListener("click", (ev) => {
   stopAllSounds();
   ev = document.getElementById("PontePreta");
   ev.play();
 });
-*/ /*
+/*
 document.getElementById("SAN").addEventListener("click", (ev) => {
   stopAllSounds();
   ev = document.getElementById("Santos");
   ev.play();
 });
-*/ /*
+*/
 document.getElementById("SPO").addEventListener("click", (ev) => {
   stopAllSounds();
   ev = document.getElementById("SportRecife");
   ev.play();
 });
-*/
+
 document.getElementById("VIL").addEventListener("click", (ev) => {
   stopAllSounds();
   ev = document.getElementById("VilaNova");
   ev.play();
 });
 
-document.getElementById("CAP").addEventListener("click", function (ev) {
+/*document.getElementById("CAP").addEventListener("click", function (ev) {
   stopAllSounds();
   ev = document.getElementById("AthleticoPR");
   ev.play();
-});
+});*/
 
 document.getElementById("CUI").addEventListener("click", function (ev) {
   stopAllSounds();
@@ -157,22 +157,50 @@ document.getElementById("ATH").addEventListener("click", (ev) => {
   stopAllSounds();
   ev = document.getElementById("AthleticClub");
   ev.play();
-});
-
+}); /*
+/*
 document.getElementById("FER").addEventListener("click", (ev) => {
   stopAllSounds();
   ev = document.getElementById("Ferroviaria");
   ev.play();
-});
-
+});*/ /*
+/*
 document.getElementById("REM").addEventListener("click", (ev) => {
   stopAllSounds();
   ev = document.getElementById("Remo");
   ev.play();
 });
-
+*/ /*
 document.getElementById("VOL").addEventListener("click", (ev) => {
   stopAllSounds();
   ev = document.getElementById("VoltaRedonda");
+  ev.play();
+}); */
+document.getElementById("FOR").addEventListener("click", (ev) => {
+  stopAllSounds();
+  ev = document.getElementById("Fortaleza");
+  ev.play();
+});
+document.getElementById("JUV").addEventListener("click", (ev) => {
+  stopAllSounds();
+  ev = document.getElementById("Juventude");
+  ev.play();
+});
+
+document.getElementById("SBE").addEventListener("click", (ev) => {
+  stopAllSounds();
+  ev = document.getElementById("SaoBernardo");
+  ev.play();
+});
+
+document.getElementById("LON").addEventListener("click", (ev) => {
+  stopAllSounds();
+  ev = document.getElementById("Londrina");
+  ev.play();
+});
+
+document.getElementById("NAU").addEventListener("click", (ev) => {
+  stopAllSounds();
+  ev = document.getElementById("Nautico");
   ev.play();
 });
